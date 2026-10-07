@@ -1,0 +1,5 @@
+# Python dependencies for ai/predict.py
+# TensorFlow 2.x includes Keras and numpy as transitive deps.
+# tensorflow-cpu is significantly smaller — swap for 'tensorflow' if GPU needed.
+tensorflow-cpu>=2.15.0
+numpy>=1.24.0
